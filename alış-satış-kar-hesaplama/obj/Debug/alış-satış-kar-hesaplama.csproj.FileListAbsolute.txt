@@ -1,0 +1,11 @@
+C:\Users\User\Desktop\KORUMASIZ\ntpörnekler\alış-satış-kar-hesaplama\alış-satış-kar-hesaplama\bin\Debug\alış-satış-kar-hesaplama.exe.config
+C:\Users\User\Desktop\KORUMASIZ\ntpörnekler\alış-satış-kar-hesaplama\alış-satış-kar-hesaplama\bin\Debug\alış-satış-kar-hesaplama.exe
+C:\Users\User\Desktop\KORUMASIZ\ntpörnekler\alış-satış-kar-hesaplama\alış-satış-kar-hesaplama\bin\Debug\alış-satış-kar-hesaplama.pdb
+C:\Users\User\Desktop\KORUMASIZ\ntpörnekler\alış-satış-kar-hesaplama\alış-satış-kar-hesaplama\obj\Debug\alış-satış-kar-hesaplama.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\KORUMASIZ\ntpörnekler\alış-satış-kar-hesaplama\alış-satış-kar-hesaplama\obj\Debug\alış-satış-kar-hesaplama.csproj.SuggestedBindingRedirects.cache
+C:\Users\User\Desktop\KORUMASIZ\ntpörnekler\alış-satış-kar-hesaplama\alış-satış-kar-hesaplama\obj\Debug\alış_satış_kar_hesaplama.Form1.resources
+C:\Users\User\Desktop\KORUMASIZ\ntpörnekler\alış-satış-kar-hesaplama\alış-satış-kar-hesaplama\obj\Debug\alış_satış_kar_hesaplama.Properties.Resources.resources
+C:\Users\User\Desktop\KORUMASIZ\ntpörnekler\alış-satış-kar-hesaplama\alış-satış-kar-hesaplama\obj\Debug\alış-satış-kar-hesaplama.csproj.GenerateResource.cache
+C:\Users\User\Desktop\KORUMASIZ\ntpörnekler\alış-satış-kar-hesaplama\alış-satış-kar-hesaplama\obj\Debug\alış-satış-kar-hesaplama.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\KORUMASIZ\ntpörnekler\alış-satış-kar-hesaplama\alış-satış-kar-hesaplama\obj\Debug\alış-satış-kar-hesaplama.exe
+C:\Users\User\Desktop\KORUMASIZ\ntpörnekler\alış-satış-kar-hesaplama\alış-satış-kar-hesaplama\obj\Debug\alış-satış-kar-hesaplama.pdb
